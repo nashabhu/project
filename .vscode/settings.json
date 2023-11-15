@@ -1,0 +1,4 @@
+{
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "git.ignoreLimitWarning": true
+}
